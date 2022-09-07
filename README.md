@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shoham-z
 - 👀 I’m interested in computer networks, programming and OSs.
-- 🌱 I’m currently learning mysql, rust, and java
+- 🌱 I’m currently learning how to design user interface, and full stack web dev
 - 💞️ I’m looking to collaborate on projects in c++, rust, python or java
 - 📫 How to reach me - send me an email - shozeh123@gmail.com
 
