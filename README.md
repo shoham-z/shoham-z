@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer networks, programming and OSs.
 - 🌱 I’m currently learning how to design user interface, and full stack web dev
 - 💞️ I’m looking to collaborate on projects in c++, rust, python or java
-- 📫 How to reach me - DM me on discord shoham#9252
+- 📫 How to reach me - DM me on discord .thesho
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoham-z&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
